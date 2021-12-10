@@ -57,6 +57,19 @@ Log4j impact manufacturers and components summary from the Internet community. W
 
 #### dubbo
 
+#### IBM Qradar SIEM
+
+- /opt/qradar/support/mod_log4j.pl
+
+- [logging](https://www.ibm.com/mysupport/s/question/0D50z00006PEIeQCAX/qradar-qradarlog-and-qradarerror-slf4j-this-version-of-slf4j-requires-log4j-version-1212-or-later?language=en_US)
+
+
+#### PaloAlto Panorama
+
+- [logging](https://docs.paloaltonetworks.com/oss-listings/panorama-oss-listings/panorama-10-0-open-source-software-oss-listing.html)
+
+
+
 #### Redis
 
 #### logstash

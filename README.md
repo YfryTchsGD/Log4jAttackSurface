@@ -70,7 +70,7 @@ Log4j impact manufacturers and components summary from the Internet community. W
 
 
 
-#### Redis
+#### --Redis--
 
 #### logstash
 
@@ -85,3 +85,10 @@ Log4j impact manufacturers and components summary from the Internet community. W
 #### Minecraft
 ![](components/Minecraft/Minecraft.jpg)
 
+#### VMWare
+
+- [VMware Response to CVE-2021-44228: Apache Log4j Remote Code Execution (87068)](https://kb.vmware.com/s/article/87068?lang=en_US)
+~~~
+A critical vulnerability in Apache Log4j identified by CVE-2021-44228 has been disclosed that may allow for remote code execution.
+VMware has classified this issue as critical and is working on publishing fixes and workarounds as a priority.
+~~~

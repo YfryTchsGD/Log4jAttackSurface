@@ -69,6 +69,9 @@ Log4j impact manufacturers and components summary from the Internet community. W
 #### ghidra
 ![](components/ghidra/ghidra.jpg)
 
+#### ghidra server
+![](components/ghidra/ghidra_server.png)
+
 #### Minecraft
 ![](components/Minecraft/Minecraft.jpg)
 

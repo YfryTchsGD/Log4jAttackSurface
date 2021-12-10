@@ -9,6 +9,8 @@ Log4j impact manufacturers and components summary from the Internet community. W
 #### Apple
 ![](internet/apple.jpg)
 ![](internet/apple2.jpg)
+![](internet/apple3.jpg)
+
 #### Tencent
 ![](internet/Tencent.png)
 #### steam

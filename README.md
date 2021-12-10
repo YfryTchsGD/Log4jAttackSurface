@@ -10,6 +10,7 @@ Log4j impact manufacturers and components summary from the Internet community. W
 ![](internet/apple.jpg)
 ![](internet/apple2.jpg)
 ![](internet/apple3.jpg)
+![](internet/apple4.jpg)
 
 #### Tencent
 ![](internet/Tencent.png)
@@ -31,6 +32,9 @@ Log4j impact manufacturers and components summary from the Internet community. W
 
 #### Amazon
 ![](internet/amazon.jpg)
+
+#### Tesla
+![](internet/tesla.jpg)
 
 #### To be continued
 

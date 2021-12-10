@@ -6,7 +6,7 @@ Log4j impact manufacturers and components summary from the Internet community. W
 
 | Manufacturer/Component                     | Notes | Verified |
 | ------------------------------------------ | ----- | -------- |
-| \[Apple\](pages/apple.md)                  |       | TRUE     |
+| [Apple](pages/apple.md)                  |       | TRUE     |
 | \[Tencent\](pages/Tencent.md)              |       | TRUE     |
 | \[Steam\](pages/Steam.md)                  |       | TRUE     |
 | \[Twitter\](pages/Twitter.md)              |       | TRUE     |

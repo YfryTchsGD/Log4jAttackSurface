@@ -32,6 +32,10 @@ Log4j impact manufacturers and components summary from the Internet community. W
 #### Amazon
 ![](internet/amazon.jpg)
 
+#### To be continued
+
+![](internet/Todo.jpg)
+
 ## Affect the components
 
 #### Apache Solr

@@ -94,9 +94,9 @@ Log4j impact manufacturers and components summary from the Internet community. W
 #### UniFi
 - [UniFi Network Application 6.5.54](https://community.ui.com/releases/UniFi-Network-Application-6-5-54/d717f241-48bb-4979-8b10-99db36ddabe1)
 
-#### VMWare
+#### VMware
 
-- vCenter, vCloud 
+- vCenter, vCloud, Workspace One
 
 - [kb.vmware.com/s/global-search/%40uri#q=Log4j](https://kb.vmware.com/s/global-search/%40uri#q=Log4j&t=MoreContent&sort=relevancy)
 - [VMware Response to CVE-2021-44228: Apache Log4j Remote Code Execution (87068)](https://kb.vmware.com/s/article/87068?lang=en_US)

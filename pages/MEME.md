@@ -1,4 +1,6 @@
-### 0x00
+### [0x00](https://github.com/apache/logging-log4j2/pull/608#issuecomment-991418303) Case of https://www.explainxkcd.com/wiki/index.php/2347:_Dependency ? 
+> Also, if this matters to you so much, why not show it with a donation to ... or this project's main contributor https://github.com/sponsors/rgoers ?
+
 ![](../MEME/0.jpg)
 ### 0x01
 ![](../MEME/1.jpg)

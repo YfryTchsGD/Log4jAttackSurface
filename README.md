@@ -34,3 +34,4 @@ Log4j impact on manufacturers and components summary from the Internet community
 | [PulseSecure](pages/PulseSecure.md)      |       | TRUE     |
 | [UniFi](pages/UniFi.md)                  |       | TRUE     |
 | [VMWare](pages/VMWare.md)                |       | TRUE     |
+| [Blender](pages/Blender.md)              |       | TRUE     |

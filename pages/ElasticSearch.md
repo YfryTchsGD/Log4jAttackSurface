@@ -1,6 +1,8 @@
 ﻿## Description
 
 ## Evidence
+screenshotted evidence concerns https://www.elastic.co, not elasticsearch the software. elasticsearch/kibana has implemented input sanitation so the exploit is not possible.
+
 ![](../components/ElasticSearch/ElasticSearch.jpg)
 
 # ES team claims not vulnerable to RCE

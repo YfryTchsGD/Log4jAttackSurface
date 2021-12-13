@@ -40,7 +40,7 @@ Log4j impact on manufacturers and components summary from the Internet community
 | [LinkedIn](pages/LinkedIn.md)            |       | TRUE     |
 | [VMWarevCenter](pages/VMWarevCenter.md)       |       | TRUE     |
 | [Speed camera LOL](pages/SpeedCamera.md)      |       | TRUE     |
-| [Solarwinds Orion](pages/SolarwindsOrion.md)  |		    | TRUE     |		
+| [Solarwinds Or](pages/SolarwindsOrion.md)  |		    | TRUE     |		
 
 
 

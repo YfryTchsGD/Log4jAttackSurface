@@ -1,6 +1,9 @@
 ## Intro
 Log4j impact on manufacturers and components summary from the Internet community. If Manufacturer or Component is not verified, it does not have screenshots or references to prove that it is affected.
 
+## Github Gist with many Programs
+[Github Gist](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
+
 ## The List
 
 | Manufacturer/Component                   | Notes | Verified |

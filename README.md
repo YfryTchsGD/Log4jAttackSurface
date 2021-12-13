@@ -37,10 +37,10 @@ Log4j impact on manufacturers and components summary from the Internet community
 | [Blender](pages/Blender.md)              |       | TRUE     |
 | [Google](pages/Google.md)                |       | TRUE     |
 | [Webex](pages/Webex.md)                  |       | TRUE     |
-| [LinkedIn](pages/LinkedIn.md)              	|       | TRUE     |
+| [LinkedIn](pages/LinkedIn.md)            |       | TRUE     |
 | [VMWarevCenter](pages/VMWarevCenter.md)       |       | TRUE     |
 | [Speed camera LOL](pages/SpeedCamera.md)      |       | TRUE     |
-| [Solarwinds Orion](pages/SolarwindsOrion.md)	|		| TRUE     |		
+| [Solarwinds Orion](pages/SolarwindsOrion.md)	|		    | TRUE     |		
 
 
 

@@ -1,0 +1,165 @@
+## Description
+
+Security Article Type
+Security KB
+
+CVE Identifier
+ CVE-2021-44228
+
+Issue Summary
+Apache Publication: Apache Log4j Remote Code Execution 
+
+CVE Details: CVE-2021-44228 
+
+Details
+Dell is reviewing the recently published Apache Log4j Remote Code Execution vulnerability being tracked in CVE-2021-44228 and assessing impact on our products. The security of our products is a top priority and critical to protecting our customers.  
+
+Vulnerable Products 
+
+The following products are confirmed as impacted by the Apache Log4j vulnerability: 
+
+### Products impacted
+
+Data Domain OS
+Dell EMC Cloud Disaster Recovery
+Dell EMC ECS
+Dell EMC Enterprise Storage Analytics for vRealize Operations
+Dell EMC ObjectScale
+Dell EMC PowerFlex Appliance
+Dell EMC PowerFlex Rack
+Dell EMC PowerProtect DP Series Appliance (iDPA)
+Dell EMC PowerStore
+Dell EMC RecoverPoint
+Dell EMC Streaming Data Platform
+Dell EMC Unity
+Dell EMC VxRail
+Dell Open Management Enterprise - Modular
+OpenManage Enterprise
+SupportAssist Enterprise
+Unisphere Central
+Wyse Management Suite
+Wyse Windows Embedded
+
+### Products Confirmed Not Vulnerable 
+
+The following products are not impacted by the Apache Log4j vulnerability: 
+Centera 
+Chassis Management Controller (CMC) 
+Cloud Mobility for Dell EMC Storage 
+CloudLink 
+Dell BSAFE Crypto-C Micro Edition 
+Dell BSAFE Crypto-J 
+Dell BSAFE Micro Edition Suite 
+Dell EMC DataIQ 
+Dell EMC Disk Library for Mainframe 
+Dell EMC Integrated System for Microsoft Azure Stack Hub 
+Dell EMC Isilon InsightIQ 
+Dell EMC License Manager 
+Dell EMC Networking Onie 
+Dell EMC OpenManage integration for Splunk 
+Dell EMC OpenManage Management pack for vRealize Operations 
+Dell EMC OpenManage Operations Connector for Micro Focus Operations Bridge Manager 
+Dell EMC PowerMax and in market VMAX
+Dell EMC PowerScale OneFS 
+Dell EMC PowerShell for Powerstore 
+Dell EMC PowerSwitch Z9264F-ON BMC, Dell EMC PowerSwitch Z9432F-ON BMC 
+Dell EMC Systems Update (DSU) 
+Dell Hybrid Client (DHC) 
+Dell ImageAssist 
+Dell Open Manage Mobile 
+Dell Open Manage Server Administrator 
+Dell OpenManage Change Management 
+Dell Wyse Management Suite Import Tool 
+Embedded NAS 
+Integrated Dell Remote Access Controller (iDRAC) 
+MyDell Mobile 
+Networking BIOS 
+Networking DIAG 
+Networking OS 
+Networking OS9 
+OMIMSSC (OpenManage Integration for Microsoft System Center) 
+OpenManage Connections - ServiceNow 
+OpenManage Integration for Microsoft System Center for System Center Operations Manager 
+OpenManage Network Integration 
+PowerEdge BIOS 
+Remotely Anywhere 
+Smart Fabric Storage Software 
+Solutions Enabler 
+Sonic 
+SRS VE 
+SupportAssist Client Commercial 
+SupportAssist Client Consumer 
+Unisphere for PowerMax 
+VNX Control Station 
+VNX2 
+Vsan Ready Nodes 
+Wyse Proprietary OS (ThinOS) 
+
+### Products Under Review 
+
+Atmos 
+Chameleon Linux Based Diagnostics 
+Client (Latitiude, Optiplex, Alienware, Inspiron, Precision, XPS, Vostro, ChengMing) BIOS 
+Connectrix (Brocade) 
+Connectrix (Cisco MDS 9000 switches) 
+Connectrix (Cisco MDS DCNM) 
+Dell Compellent 
+Dell EMC AppSync 
+Dell EMC Avamar 
+Dell EMC Cloudboost 
+Dell EMC Container Storage Modules 
+Dell EMC Data Computing Appliance (DCA) 
+Dell EMC Data Protection Advisor 
+Dell EMC Data Protection Central 
+Dell EMC Data Protection Search 
+Dell EMC GeoDrive 
+Dell EMC NetWorker 
+Dell EMC PowerFlex Manager 
+Dell EMC PowerPath 
+Dell EMC PowerPath Management Appliance 
+Dell EMC PowerProtect Cyber Recovery 
+Dell EMC PowerProtect Data Manager 
+Dell EMC PowerShell for PowerMax 
+Dell EMC PowerShell for Unity 
+Dell EMC Repository Manager (DRM) 
+Dell EMC SourceOne 
+Dell EMC SRM vApp 
+Dell EMC Virtual Storage Integrator  
+Dell EMC VPLEX 
+Dell EMC XtremIO 
+Dell Networking X-Series 
+Enterprise Hybrid Cloud 
+Infinity MLK (firmware) 
+ISG Comms 
+ISG Drive & Storage Media 
+ISG Memory 
+IsilonSD Management Server 
+IVE-WinDiag 
+Mainframe Enablers 
+NetWorker Management Console 
+NetWorker MM for Hyper-V 
+Networking N-Series 
+Networking SD-WAN Edge 
+Networking SD-WAN Edge 
+Networking W-Series 
+OMNIA 
+OpenManage Connections - Nagios 
+OpenManage Integration with Microsoft Windows Admin Center 
+PowerEdge Operating Systems 
+Riptide (firmware) 
+Secure Connect Gateway (SCG) 5.0 Appliance 
+"Server Storage" 
+Software RAID 
+SRS Policy Manager 
+Update Manager Plugin 
+Vblock 
+ViPR Controller 
+VxBlock 
+Warnado MLK (firmware)
+
+Any security updates or mitigations will be communicated at https://www.dell.com/support/security as soon as they become available. You can subscribe to our Security Alerts to be notified when these Security Advisories are posted by following the guidance here,or by following the directions in the Security Alerts section on the Security Advisories and Notices page. 
+
+## Evidence
+
+https://www.dell.com/support/kbdoc/en-uk/000194414/dell-response-to-apache-log4j-remote-code-execution-vulnerability (locked behind a login)
+
